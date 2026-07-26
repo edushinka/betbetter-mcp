@@ -3,3 +3,8 @@ npm-debug.log*
 *.tgz
 .DS_Store
 .env
+
+# MCP registry publisher binary — downloaded locally, never committed
+mcp-publisher
+mcp-publisher.exe
+*.tar.gz

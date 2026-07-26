@@ -1,6 +1,7 @@
 {
   "name": "betbetter-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "mcpName": "io.github.edushinka/betbetter-mcp",
   "description": "MCP server exposing free sports model win probabilities and fair odds across nine sports (AFL, MLB, NBA, NFL, NHL, NCAAF, UFC, WNBA, soccer, tennis) from the Bet Better open API. No API key required.",
   "homepage": "https://betbetter.world/api/",
   "repository": {
